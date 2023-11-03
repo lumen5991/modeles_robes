@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav a{
+    text-decoration: none;
+    color: red;
+}
+nav a span{
+    color: black;
+}
+.navlinks{
+    display: flex;
+    gap: 20px;
+
+}
